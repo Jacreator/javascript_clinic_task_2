@@ -53,3 +53,13 @@ body{
     font-size: 1rem;
     color: wheat;
 }
+
+.ac {
+    color: wheat; 
+    background-color:red !important;
+}
+
+.equalTo {
+    color: wheat; 
+    background-color: green !important;
+}
